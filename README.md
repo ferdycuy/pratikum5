@@ -4,7 +4,7 @@
 
 - Code
 
-~ print("====================================")
+```print("====================================")
 print("======>  Program Input Data  <======")
 print("====================================")
 data = {}
@@ -64,7 +64,16 @@ while True:
             print("Tidaak Ada Data")
 
     else:
-        print("Pilih menu yang tersedia") ~
+        print("Pilih menu yang tersedia")```
+        
+- Contoh jika code dimasukkan
+
+![Screenshot (48)](https://user-images.githubusercontent.com/115714443/204310632-b9c1bcf7-f0b0-476e-be7f-9ced85f11dc5.png)
+
+![Screenshot (49)](https://user-images.githubusercontent.com/115714443/204310650-d7d1ff21-6952-45b2-906c-78f4fed29c4f.png)
+
+![Screenshot (50)](https://user-images.githubusercontent.com/115714443/204310666-ccdb267d-cf49-4804-a74c-074403f86744.png)
+
 
 - hasil RUN
 
