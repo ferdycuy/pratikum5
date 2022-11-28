@@ -10,6 +10,10 @@ Tampilkan Data, Cari Data)
 - Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%,
 uts: 35%, uas: 35%)
 
+#### FLOWCHART
+
+![flowchartpratikum5](https://user-images.githubusercontent.com/115714443/204314193-013a842c-aaa6-4a9f-8973-8e2b68fd2f8c.png)
+
 ##### Code
 
 ```print("====================================")
