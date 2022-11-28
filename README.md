@@ -2,7 +2,15 @@
 
 #### Soal
 
-- Code
+- Buat program sederhana yang akan menampilkan daftar nilai
+mahasiswa, dengan ketentuan
+- Program dibuat dengan menggunakan Dictionary
+- Tampilkan menu pilihan: (Tambah Data, Ubah Data, Hapus Data,
+Tampilkan Data, Cari Data)
+- Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%,
+uts: 35%, uas: 35%)
+
+##### Code
 
 ```print("====================================")
 print("======>  Program Input Data  <======")
@@ -64,9 +72,10 @@ while True:
             print("Tidaak Ada Data")
 
     else:
-        print("Pilih menu yang tersedia")```
+        print("Pilih menu yang tersedia")
+        ```
         
-- Contoh jika code dimasukkan
+##### Contoh jika code dimasukkan
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/115714443/204310632-b9c1bcf7-f0b0-476e-be7f-9ced85f11dc5.png)
 
@@ -75,6 +84,6 @@ while True:
 ![Screenshot (50)](https://user-images.githubusercontent.com/115714443/204310666-ccdb267d-cf49-4804-a74c-074403f86744.png)
 
 
-- hasil RUN
+##### Hasil RUN
 
 ![Screenshot (46)](https://user-images.githubusercontent.com/115714443/204308824-c8dece66-84a1-4b1a-ba21-1423be3fcb38.png)
