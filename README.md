@@ -73,8 +73,7 @@ while True:
 
     else:
         print("Pilih menu yang tersedia")
-        ```
-        
+```
 ##### Contoh jika code dimasukkan
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/115714443/204310632-b9c1bcf7-f0b0-476e-be7f-9ced85f11dc5.png)
