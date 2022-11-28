@@ -4,7 +4,8 @@
 
 - Codingan
 
-~ print("====================================")
+~ 
+print("====================================")
 print("======>  Program Input Data  <======")
 print("====================================")
 data = {}
@@ -67,3 +68,7 @@ while True:
 
     else:
         print("Pilih menu yang tersedia") ~
+
+- hasil RUN
+
+![Screenshot (46)](https://user-images.githubusercontent.com/115714443/204308824-c8dece66-84a1-4b1a-ba21-1423be3fcb38.png)
