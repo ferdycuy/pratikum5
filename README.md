@@ -18,8 +18,7 @@ while True:
     print(">>>>>>>>>>>>>>>>>>>>>>>> TIDAK ADA DATA <<<<<<<<<<<<<<<<<<<<<<<<")
     if m.lower() == 'k':
         break
-
-    elif m.lower() == 'l':
+   elif m.lower() == 'l':
         print("----- DAFTAR NILAI -----")
         print("==================================================================================")
         print("| NO |   NAMA     |   NIM        |  TUGAS   |   UTS     |   UAS      |  AKHIR    |")
